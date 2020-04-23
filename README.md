@@ -19,6 +19,7 @@ make clean - deletes compiled files
 ## extra info
 
 passivesock - creates socket that listens for connections
+
 connectsock - connects to passivesock
 
 prodcon.h contains constants
